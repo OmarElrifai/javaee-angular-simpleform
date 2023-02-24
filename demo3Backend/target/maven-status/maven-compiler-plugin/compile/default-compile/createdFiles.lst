@@ -1,0 +1,7 @@
+entity/EntityManager.class
+Beans/CRUDBean.class
+repositories/CRUDRepository.class
+entity/User.class
+repositories/ApplicationRepository.class
+repositories/CORS.class
+com/example/demo3/findAll.class
